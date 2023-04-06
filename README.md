@@ -18,5 +18,3 @@ npm install
 ```bash
 npm run dev
 ```
-
-<img src="src\assets\mobile.png" alt="Screenshot" width="300" />
